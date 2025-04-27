@@ -1,0 +1,138 @@
+[
+    {
+        "__version": 1,
+        "image": {
+            "__version": 0,
+            "enable_crop_jitter": false,
+            "enable_random_flip": false,
+            "enable_fixed_flip": false,
+            "enable_random_rotate": false,
+            "enable_fixed_rotate": false,
+            "random_rotate_max_angle": 0.0,
+            "enable_random_brightness": false,
+            "enable_fixed_brightness": false,
+            "random_brightness_max_strength": 0.0,
+            "enable_random_contrast": false,
+            "enable_fixed_contrast": false,
+            "random_contrast_max_strength": 0.0,
+            "enable_random_saturation": false,
+            "enable_fixed_saturation": false,
+            "random_saturation_max_strength": 0.0,
+            "enable_random_hue": false,
+            "enable_fixed_hue": false,
+            "random_hue_max_strength": 0.0,
+            "enable_resolution_override": false,
+            "resolution_override": "512",
+            "enable_random_circular_mask_shrink": false,
+            "enable_random_mask_rotate_crop": false
+        },
+        "text": {
+            "__version": 0,
+            "prompt_source": "sample",
+            "prompt_path": "",
+            "enable_tag_shuffling": true,
+            "tag_delimiter": ",",
+            "keep_tags_count": 4,
+            "tag_dropout_enable": true,
+            "tag_dropout_mode": "RANDOM",
+            "tag_dropout_probability": 0.3,
+            "tag_dropout_special_tags_mode": "WHITELIST",
+            "tag_dropout_special_tags": "art_trickcal, 1girl, deformed, full body, standing, sitting,",
+            "tag_dropout_special_tags_regex": false,
+            "caps_randomize_enable": false,
+            "caps_randomize_mode": "capslock, title, first, random",
+            "caps_randomize_probability": 0.0,
+            "caps_randomize_lowercase": false
+        },
+        "name": "TrickcalSD",
+        "path": "/content/drive/MyDrive/AI/train_data_set",
+        "seed": -771136562,
+        "enabled": true,
+        "validation_concept": false,
+        "include_subdirectories": false,
+        "image_variations": 1,
+        "text_variations": 1,
+        "balancing": 1.0,
+        "balancing_strategy": "REPEATS",
+        "loss_weight": 1.0,
+        "concept_stats": {
+            "file_size": 538964842,
+            "image_count": 1281,
+            "image_with_mask_count": 0,
+            "image_with_caption_count": 1281,
+            "video_count": 0,
+            "video_with_mask_count": 0,
+            "video_with_caption_count": 0,
+            "mask_count": 0,
+            "paired_masks": 0,
+            "unpaired_masks": 0,
+            "caption_count": 1281,
+            "paired_captions": 1281,
+            "unpaired_captions": 0,
+            "processing_time": 0.1228558000002522,
+            "directory_count": 1,
+            "max_pixels": [
+                1048576,
+                "AliceSkin1_0.png",
+                "1024w x 1024h"
+            ],
+            "min_pixels": [
+                1048576,
+                "AliceSkin1_0.png",
+                "1024w x 1024h"
+            ],
+            "avg_pixels": 1048576.0,
+            "max_length": [
+                0,
+                "-"
+            ],
+            "min_length": [
+                1000000000,
+                "-"
+            ],
+            "avg_length": 0,
+            "max_fps": [
+                0,
+                "-"
+            ],
+            "min_fps": [
+                1000000000,
+                "-"
+            ],
+            "avg_fps": 0,
+            "max_caption_length": [
+                129,
+                "xXionxSkin2_6.png",
+                12
+            ],
+            "min_caption_length": [
+                87,
+                "Haley_3.png",
+                10
+            ],
+            "avg_caption_length": [
+                106.86416861826707,
+                11.039032006245113
+            ],
+            "aspect_buckets": {
+                "0.25": 0,
+                "0.29": 0,
+                "0.33": 0,
+                "0.4": 0,
+                "0.5": 0,
+                "0.57": 0,
+                "0.67": 0,
+                "0.8": 0,
+                "1.0": 1281,
+                "1.25": 0,
+                "1.5": 0,
+                "1.75": 0,
+                "2.0": 0,
+                "2.5": 0,
+                "3.0": 0,
+                "3.5": 0,
+                "4.0": 0
+            }
+        }
+    }
+]
