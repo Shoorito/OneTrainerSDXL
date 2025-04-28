@@ -15,7 +15,7 @@
     "continue_last_backup": false,
     "include_train_config": "NONE",
     "base_model_name": "/content/drive/MyDrive/AI/base_model/ntrMIXIllustriousXL_xiii.safetensors",
-    "weight_dtype": "FLOAT_32",
+    "weight_dtype": "FLOAT_16",
     "output_dtype": "FLOAT_16",
     "output_model_format": "SAFETENSORS",
     "output_model_destination": "/content/drive/MyDrive/AI/outputs/trickcal_0428.safetensors",
@@ -508,7 +508,7 @@
             "use_focus": false
         }
     },
-    "sample_definition_file_name": "training_samples/samples.json",
+    "sample_definition_file_name": "samples/samples.json",
     "samples": null,
     "sample_after": 0,
     "sample_after_unit": "NEVER",
