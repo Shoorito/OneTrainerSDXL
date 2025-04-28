@@ -37,7 +37,7 @@
     "learning_rate_cycles": 1.0,
     "learning_rate_min_factor": 0.0,
     "epochs": 100,
-    "batch_size": 16,
+    "batch_size": 12,
     "gradient_accumulation_steps": 1,
     "ema": "OFF",
     "ema_decay": 0.999,
