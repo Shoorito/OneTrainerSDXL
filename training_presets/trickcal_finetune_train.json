@@ -45,7 +45,7 @@
     "dataloader_threads": 2,
     "train_device": "cuda",
     "temp_device": "cpu",
-    "train_dtype": "TFLOAT_32",
+    "train_dtype": "FLOAT_16",
     "fallback_train_dtype": "BFLOAT_16",
     "enable_autocast_cache": true,
     "only_cache": false,
