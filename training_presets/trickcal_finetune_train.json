@@ -508,7 +508,7 @@
             "use_focus": false
         }
     },
-    "sample_definition_file_name": "samples/samples.json",
+    "sample_definition_file_name": "samples/sample.json",
     "samples": null,
     "sample_after": 0,
     "sample_after_unit": "NEVER",
