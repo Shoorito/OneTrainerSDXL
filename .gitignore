@@ -12,7 +12,6 @@ debug*.py
 /workspace*
 /models*
 /training_concepts
-/training_samples
 /training_user_settings
 /external
 /update.var

@@ -45,7 +45,7 @@
             "caps_randomize_lowercase": false
         },
         "name": "trickcal_sdxl_finetuned",
-        "path": "/content/drive/MyDrive/AI/train_data_set",
+        "path": "/content/OneTrainerSDXL/dataset",
         "seed": -771136562,
         "enabled": true,
         "validation_concept": false,
