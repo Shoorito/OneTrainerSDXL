@@ -33,11 +33,11 @@
     "custom_learning_rate_scheduler": null,
     "scheduler_params": [],
     "learning_rate": 1e-05,
-    "learning_rate_warmup_steps": 25620.0,
+    "learning_rate_warmup_steps": 6400.0,
     "learning_rate_cycles": 1.0,
     "learning_rate_min_factor": 0.0,
     "epochs": 200,
-    "batch_size": 2,
+    "batch_size": 4,
     "gradient_accumulation_steps": 1,
     "ema": "CPU",
     "ema_decay": 0.999,
@@ -115,12 +115,12 @@
         "attention_mask": false,
         "guidance_scale": 1.0
     },
-    "text_encoder_layer_skip": 0,
+    "text_encoder_layer_skip": 2,
     "text_encoder_2": {
         "__version": 0,
         "model_name": "",
         "include": true,
-        "train": false,
+        "train": true,
         "stop_training_after": 0,
         "stop_training_after_unit": "NEVER",
         "learning_rate": null,
@@ -130,7 +130,7 @@
         "attention_mask": false,
         "guidance_scale": 1.0
     },
-    "text_encoder_2_layer_skip": 0,
+    "text_encoder_2_layer_skip": 2,
     "text_encoder_3": {
         "__version": 0,
         "model_name": "",
