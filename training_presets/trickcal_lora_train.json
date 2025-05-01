@@ -33,7 +33,7 @@
     "custom_learning_rate_scheduler": null,
     "scheduler_params": [],
     "learning_rate": 5e-05,
-    "learning_rate_warmup_steps": 387360.0,
+    "learning_rate_warmup_steps": 193680.0,
     "learning_rate_cycles": 1.0,
     "learning_rate_min_factor": 0.0,
     "epochs": 200,
