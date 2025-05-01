@@ -9,9 +9,9 @@ debug*.py
 /debug*
 
 # user data
+/dataset*
 /workspace*
 /models*
-/training_concepts
 /training_user_settings
 /external
 /update.var
