@@ -45,7 +45,7 @@
             "caps_randomize_lowercase": false
         },
         "name": "trickcal_sdxl",
-        "path": "contents/OneTrainerSDXL/dataset/train_data_set_high",
+        "path": "/contents/OneTrainerSDXL/dataset/train_data_set_high",
         "seed": -314634552,
         "enabled": true,
         "validation_concept": false,
