@@ -48,7 +48,7 @@
     "train_dtype": "TFLOAT_32",
     "fallback_train_dtype": "BFLOAT_16",
     "enable_autocast_cache": true,
-    "only_cache": true,
+    "only_cache": false,
     "resolution": "1024",
     "frames": "25",
     "mse_strength": 1.0,
