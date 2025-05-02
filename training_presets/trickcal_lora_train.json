@@ -267,7 +267,7 @@
         "on_detached_finish": "NONE",
         "on_detached_error": "NONE"
     },
-    "peft_type": "LORA",
+    "peft_type": "LOHA",
     "lora_model_name": "",
     "lora_rank": 128,
     "lora_alpha": 128.0,
