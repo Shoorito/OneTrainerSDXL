@@ -35,9 +35,9 @@
             "keep_tags_count": 4,
             "tag_dropout_enable": true,
             "tag_dropout_mode": "RANDOM",
-            "tag_dropout_probability": 0.3,
+            "tag_dropout_probability": 0.08,
             "tag_dropout_special_tags_mode": "WHITELIST",
-            "tag_dropout_special_tags": "TrickcalSD, 1girl, solo, deformed, full body, standing, sitting, leaning forward,",
+            "tag_dropout_special_tags": "trickcal_sdxl, 1girl, solo, deformed, full body, ",
             "tag_dropout_special_tags_regex": false,
             "caps_randomize_enable": false,
             "caps_randomize_mode": "capslock, title, first, random",
@@ -54,6 +54,7 @@
         "text_variations": 1,
         "balancing": 1.0,
         "balancing_strategy": "REPEATS",
-        "loss_weight": 1.0
+        "loss_weight": 1.0,
+        "concept_stats": {}
     }
 ]
