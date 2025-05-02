@@ -110,7 +110,7 @@
         "stop_training_after_unit": "NEVER",
         "learning_rate": 5e-05,
         "weight_dtype": "NONE",
-        "dropout_probability": 0.04,
+        "dropout_probability": 0.08,
         "train_embedding": false,
         "attention_mask": false,
         "guidance_scale": 1.0
@@ -125,7 +125,7 @@
         "stop_training_after_unit": "NEVER",
         "learning_rate": 5e-05,
         "weight_dtype": "NONE",
-        "dropout_probability": 0.04,
+        "dropout_probability": 0.08,
         "train_embedding": false,
         "attention_mask": false,
         "guidance_scale": 1.0
