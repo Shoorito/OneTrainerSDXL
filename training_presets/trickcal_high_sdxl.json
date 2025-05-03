@@ -24,7 +24,7 @@
     "enable_activation_offloading": true,
     "layer_offload_fraction": 0.0,
     "force_circular_padding": false,
-    "concept_file_name": "training_concepts/trickcal_sdxl.json",
+    "concept_file_name": "training_concepts/trickcal_sdxl_high.json",
     "concepts": null,
     "aspect_ratio_bucketing": true,
     "latent_caching": true,
