@@ -36,7 +36,7 @@
     "learning_rate_warmup_steps": 3000.0,
     "learning_rate_cycles": 1.0,
     "learning_rate_min_factor": 0.0,
-    "epochs": 200,
+    "epochs": 100,
     "batch_size": 96,
     "gradient_accumulation_steps": 1,
     "ema": "OFF",
@@ -110,7 +110,7 @@
         "stop_training_after_unit": "NEVER",
         "learning_rate": 5e-05,
         "weight_dtype": "FLOAT_32",
-        "dropout_probability": 0.08,
+        "dropout_probability": 0.15,
         "train_embedding": false,
         "attention_mask": false,
         "guidance_scale": 1.0
@@ -125,7 +125,7 @@
         "stop_training_after_unit": "NEVER",
         "learning_rate": 5e-05,
         "weight_dtype": "FLOAT_32",
-        "dropout_probability": 0.08,
+        "dropout_probability": 0.15,
         "train_embedding": false,
         "attention_mask": false,
         "guidance_scale": 1.0
