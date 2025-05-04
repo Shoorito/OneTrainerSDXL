@@ -510,7 +510,7 @@
     },
     "sample_definition_file_name": "training_samples/samples.json",
     "samples": null,
-    "sample_after": 5,
+    "sample_after": 1,
     "sample_after_unit": "EPOCH",
     "sample_skip_first": 1,
     "sample_image_format": "JPG",
