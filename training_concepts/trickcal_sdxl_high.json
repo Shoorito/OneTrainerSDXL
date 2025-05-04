@@ -35,7 +35,7 @@
             "keep_tags_count": 6,
             "tag_dropout_enable": true,
             "tag_dropout_mode": "RANDOM",
-            "tag_dropout_probability": 0.15,
+            "tag_dropout_probability": 0.08,
             "tag_dropout_special_tags_mode": "WHITELIST",
             "tag_dropout_special_tags": "trickcal_sdxl, art_trickcal, 1girl, solo, deformed, full body, standing, sitting, angry, sad, smile, happy",
             "tag_dropout_special_tags_regex": false,
