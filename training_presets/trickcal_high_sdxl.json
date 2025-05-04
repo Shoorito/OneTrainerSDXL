@@ -15,7 +15,7 @@
     "continue_last_backup": true,
     "include_train_config": "NONE",
     "base_model_name": "models/ntrMIXIllustriousXL_xiii.safetensors",
-    "weight_dtype": "FLOAT_16",
+    "weight_dtype": "BFLOAT_16",
     "output_dtype": "FLOAT_32",
     "output_model_format": "SAFETENSORS",
     "output_model_destination": "outputs/trickcal_sdxl_finetuned.safetensors",
