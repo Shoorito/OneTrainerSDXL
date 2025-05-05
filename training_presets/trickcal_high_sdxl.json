@@ -39,7 +39,7 @@
     "epochs": 100,
     "batch_size": 96,
     "gradient_accumulation_steps": 1,
-    "ema": "CPU",
+    "ema": "GPU",
     "ema_decay": 0.999,
     "ema_update_step_interval": 5,
     "dataloader_threads": 12,
